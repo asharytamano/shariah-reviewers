@@ -13,16 +13,16 @@ This repository aims to assist:
 
 | Title | Description | Download Link |
 |-------|--------------|----------------|
-| **Jurisprudence (Fiqh) And Customary Laws (Adat) - Review Questions** | | [Download PDF](Jurisprudence (Fiqh) and Customary Laws (Adat) - Review Questions.pdf) |
-| **Pd 1083 Recall Deck – 50 Flashcards For Mastery** | | [Download PDF](PD 1083 Recall Deck – 50 Flashcards for Mastery.pdf) |
-| **Persons, Family Relations And Property - Review Questions** | | [Download PDF](Persons, Family Relations and Property - Review Questions.pdf) |
-| **Shariah Reviewer On Persons, Family Relations, And Property** | | [Download PDF](Shariah Reviewer on Persons, Family Relations, and Property.pdf) |
-| **Shari‘Ah Bar Reviewer On Succession, Wills, And Adjudication** | | [Download PDF](Shari‘ah Bar Reviewer on Succession, Wills, and Adjudication.pdf) |
-| **Structured Reviewer On The Special Rules Of Procedure Governing The Philippine Shari’A Courts** | | [Download PDF](Structured Reviewer on the SPECIAL RULES OF PROCEDURE GOVERNING THE PHILIPPINE SHARI’A COURTS.pdf) |
-| **Succession - Heirs, Shares, And Computations (Inheritance Math)** | | [Download PDF](Succession - Heirs, Shares, and Computations (Inheritance Math).pdf) |
-| **Succession, Wills, Adjudication, And Settlement Of Estates - Review Questions 2** | | [Download PDF](Succession, Wills, Adjudication, and Settlement of Estates - Review Questions 2.pdf) |
-| **Succession, Wills, Adjudication, And Settlement Of Estates - Review Questions** | | [Download PDF](Succession, Wills, Adjudication, and Settlement of Estates - Review Questions.pdf) |
-| **Tips On How To Easily Memorize Pd 1083** | | [Download PDF](Tips on how to easily memorize PD 1083.pdf) |
+| **Jurisprudence (Fiqh) And Customary Laws (Adat) - Review Questions** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Jurisprudence (Fiqh) and Customary Laws (Adat) - Review Questions.pdf) |
+| **Pd 1083 Recall Deck – 50 Flashcards For Mastery** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/PD 1083 Recall Deck – 50 Flashcards for Mastery.pdf) |
+| **Persons, Family Relations And Property - Review Questions** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Persons, Family Relations and Property - Review Questions.pdf) |
+| **Shariah Reviewer On Persons, Family Relations, And Property** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Shariah Reviewer on Persons, Family Relations, and Property.pdf) |
+| **Shari‘Ah Bar Reviewer On Succession, Wills, And Adjudication** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Shari‘ah Bar Reviewer on Succession, Wills, and Adjudication.pdf) |
+| **Structured Reviewer On The Special Rules Of Procedure Governing The Philippine Shari’A Courts** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Structured Reviewer on the SPECIAL RULES OF PROCEDURE GOVERNING THE PHILIPPINE SHARI’A COURTS.pdf) |
+| **Succession - Heirs, Shares, And Computations (Inheritance Math)** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Succession - Heirs, Shares, and Computations (Inheritance Math).pdf) |
+| **Succession, Wills, Adjudication, And Settlement Of Estates - Review Questions 2** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Succession, Wills, Adjudication, and Settlement of Estates - Review Questions 2.pdf) |
+| **Succession, Wills, Adjudication, And Settlement Of Estates - Review Questions** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Succession, Wills, Adjudication, and Settlement of Estates - Review Questions.pdf) |
+| **Tips On How To Easily Memorize Pd 1083** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Tips on how to easily memorize PD 1083.pdf) |
 
 ## 🧭 How to Use
 
