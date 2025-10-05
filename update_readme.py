@@ -1,10 +1,10 @@
 import os
 
-# Folder where PDFs are stored (main directory)
+# ✅ PDFs are in the main directory, not inside /pdfs/
 pdf_dir = "."
 readme_path = "README.md"
 
-# Get all PDF files in the main repo directory
+# Get all PDF files in the main directory
 pdf_files = [f for f in os.listdir(pdf_dir) if f.lower().endswith(".pdf")]
 pdf_files.sort()
 
