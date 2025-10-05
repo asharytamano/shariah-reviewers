@@ -1,36 +1,41 @@
 import os
 
-pdf_dir = "pdfs"
+# Folder where PDFs are stored (main directory)
+pdf_dir = "."
 readme_path = "README.md"
 
-pdf_files = sorted(os.listdir(pdf_dir))
-table_rows = []
+# Get all PDF files in the main repo directory
+pdf_files = [f for f in os.listdir(pdf_dir) if f.lower().endswith(".pdf")]
+pdf_files.sort()
 
+# Build markdown table rows
+rows = []
 for pdf in pdf_files:
-    if pdf.lower().endswith(".pdf"):
-        title = os.path.splitext(pdf)[0].replace("_", " ").title()
-        link = f"[Download PDF]({pdf_dir}/{pdf})"
-        table_rows.append(f"| **{title}** | | {link} |")
+    title = os.path.splitext(pdf)[0].replace("_", " ").title()
+    link = f"[Download PDF]({pdf})"
+    rows.append(f"| **{title}** | | {link} |")
 
-table = "| Title | Description | Download Link |\n|-------|--------------|----------------|\n" + "\n".join(table_rows)
+table_header = "| Title | Description | Download Link |\n|-------|--------------|----------------|\n"
+table = table_header + "\n".join(rows) + "\n"
 
+# Read the README content
 with open(readme_path, "r", encoding="utf-8") as f:
     content = f.read()
 
-# Replace only the section between markers
-start = content.find("## 📂 Available Review Materials")
-end = content.find("## 🧭 How to Use")
+# Identify section markers
+start_marker = "## 📂 Available Review Materials"
+end_marker = "## 🧭 How to Use"
+
+start = content.find(start_marker)
+end = content.find(end_marker)
 
 if start != -1 and end != -1:
-    new_content = (
-        content[:start]
-        + "## 📂 Available Review Materials\n\n"
-        + table
-        + "\n\n"
-        + content[end:]
-    )
+    before = content[:start + len(start_marker)] + "\n\n"
+    after = content[end:]
+    new_content = before + table + "\n" + after
+
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)
-    print("✅ README updated with new PDF list.")
+    print("✅ README updated successfully with all PDFs from main directory.")
 else:
-    print("⚠️ Could not find section markers. Please check README format.")
+    print("⚠️ Could not locate section markers. Please check README format.")
