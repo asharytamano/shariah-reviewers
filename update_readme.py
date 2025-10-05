@@ -1,12 +1,16 @@
 import os
 
-# ✅ PDFs are in the main directory, not inside /pdfs/
-pdf_dir = "."
-readme_path = "README.md"
+# Look for PDFs in the main directory (same folder as this script)
+pdf_dir = os.getcwd()
+readme_path = os.path.join(pdf_dir, "README.md")
 
-# Get all PDF files in the main directory
+# Get all PDF files in the current directory
 pdf_files = [f for f in os.listdir(pdf_dir) if f.lower().endswith(".pdf")]
 pdf_files.sort()
+
+if not pdf_files:
+    print("⚠️ No PDF files found in the main directory.")
+    exit()
 
 # Build markdown table rows
 rows = []
