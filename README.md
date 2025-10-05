@@ -24,6 +24,11 @@ This repository aims to assist:
 | **Succession, Wills, Adjudication, And Settlement Of Estates - Review Questions** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Succession, Wills, Adjudication, and Settlement of Estates - Review Questions.pdf) |
 | **Tips On How To Easily Memorize Pd 1083** | | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Tips on how to easily memorize PD 1083.pdf) |
 
+| Title | Description | Download Link |
+|-------|--------------|----------------|
+| **Jurisprudence (Fiqh) And Customary Laws (Adat) - Review Questions** | Covers Islamic jurisprudence and legal reasoning. | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Jurisprudence (Fiqh) and Customary Laws (Adat) - Review Questions.pdf) (56 KB) |
+| **Succession - Heirs, Shares, And Computations (Inheritance Math)** | Discusses inheritance laws, heirs, shares, and estate distribution. | [Download PDF](https://github.com/asharytamano/shariah-reviewers/raw/main/Succession - Heirs, Shares, and Computations (Inheritance Math).pdf) (3.93 MB) |
+
 ## 🧭 How to Use
 
 1. Click on any **Download PDF** link above to view or save the document.  
